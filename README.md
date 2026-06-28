@@ -6,7 +6,7 @@ Queries to make these table structures are given in the Hospital.sql file which 
 ### How to Use:
 1. Clone git repositry by typing this on terminal
    ```bash
-   git clone https://github.com/Anandkumar8418/Hospital-Management-System.git
+   git clone https://github.com/Brijeshpatel28/hospital-management-system
    ```
 2.Create a database of name "medical" in your local SQL Server
 
